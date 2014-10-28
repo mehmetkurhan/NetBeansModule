@@ -1,0 +1,195 @@
+<record>
+  <date>2014-07-03T17:01:30</date>
+  <millis>1404396090847</millis>
+  <sequence>732</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>36</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>javax.swing.JMenuItem[Properties]</param>
+  <param>javax.swing.JMenuItem</param>
+  <param>org.netbeans.modules.project.ui.actions.CustomizeProject[Project Proper&amp;ties]</param>
+  <param>org.netbeans.modules.project.ui.actions.CustomizeProject</param>
+  <param>Project Proper&amp;ties</param>
+</record>
+<record>
+  <date>2014-07-03T17:01:30</date>
+  <millis>1404396090848</millis>
+  <sequence>733</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINE</level>
+  <thread>36</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>javax.swing.JMenuItem[Properties]</param>
+  <param>javax.swing.JMenuItem</param>
+  <param>org.netbeans.modules.project.ui.actions.CustomizeProject[Project Proper&amp;ties]</param>
+  <param>org.netbeans.modules.project.ui.actions.CustomizeProject</param>
+  <param>Project Proper&amp;ties</param>
+</record>
+<record>
+  <date>2014-07-03T17:01:32</date>
+  <millis>1404396092192</millis>
+  <sequence>751</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>31</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>7491</param>
+  <param>TaskListIndexer</param>
+  <param>3</param>
+  <param>0</param>
+  <param>org.netbeans.modules.java.source.indexing.COSSynchronizingIndexer</param>
+  <param>3</param>
+  <param>3</param>
+  <param>php</param>
+  <param>1</param>
+  <param>143</param>
+  <param>html</param>
+  <param>1</param>
+  <param>24</param>
+  <param>TLIndexer</param>
+  <param>2</param>
+  <param>5315</param>
+  <param>org-netbeans-modules-jumpto-file-FileIndexer</param>
+  <param>3</param>
+  <param>12</param>
+</record>
+<record>
+  <date>2014-07-03T17:01:59</date>
+  <millis>1404396119164</millis>
+  <sequence>754</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>36</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2014-07-03T17:02:05</date>
+  <millis>1404396125523</millis>
+  <sequence>755</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>57</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>263</param>
+</record>
+<record>
+  <date>2014-07-03T17:02:09</date>
+  <millis>1404396129352</millis>
+  <sequence>756</sequence>
+  <logger>org.netbeans.ui.metrics.editor</logger>
+  <level>INFO</level>
+  <thread>48</thread>
+  <message>USG_EDITOR_MIME_TYPE</message>
+  <param>text/x-php5</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2014-07-03T17:02:09</date>
+  <millis>1404396129811</millis>
+  <sequence>757</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>31</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>37619</param>
+</record>
+<record>
+  <date>2014-07-03T17:02:09</date>
+  <millis>1404396129906</millis>
+  <sequence>758</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>31</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2014-07-03T17:02:10</date>
+  <millis>1404396130060</millis>
+  <sequence>759</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>31</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>154</param>
+</record>
+<record>
+  <date>2014-07-03T17:02:10</date>
+  <millis>1404396130726</millis>
+  <sequence>766</sequence>
+  <logger>org.netbeans.ui.vcs</logger>
+  <level>INFO</level>
+  <thread>36</thread>
+  <message>USG_VCS_CMD</message>
+  <key>USG_VCS_CMD</key>
+  <catalog>org.netbeans.modules.versioning.util.Bundle</catalog>
+  <param>GIT</param>
+  <param>10</param>
+  <param>0</param>
+  <param>reset</param>
+  <param>INTERNAL</param>
+</record>
+<record>
+  <date>2014-07-03T17:02:10</date>
+  <millis>1404396130830</millis>
+  <sequence>769</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>31</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>617</param>
+</record>
+<record>
+  <date>2014-07-03T17:02:10</date>
+  <millis>1404396130865</millis>
+  <sequence>770</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>31</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>35</param>
+</record>
+<record>
+  <date>2014-07-03T17:02:10</date>
+  <millis>1404396130899</millis>
+  <sequence>771</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>31</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>9</param>
+</record>
+<record>
+  <date>2014-07-03T17:02:10</date>
+  <millis>1404396130925</millis>
+  <sequence>774</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>36</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Projects">
+        <folder name="org-netbeans-modules-php-project">
+            <folder name="Customizer">
+                <file name="org-nart-project-NartsWorkCustomizerTab-createMyDemoConfigurationTab.instance">
+                    <!--org.nart.project.NartsWorkCustomizerTab.createMyDemoConfigurationTab()-->
+                    <attr
+                        methodvalue="org.nart.project.NartsWorkCustomizerTab.createMyDemoConfigurationTab" name="instanceCreate"/>
+                    <attr intvalue="10" name="position"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

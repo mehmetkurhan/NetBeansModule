@@ -1,0 +1,159 @@
+<record>
+  <date>2014-07-03T17:01:13</date>
+  <millis>1404396073354</millis>
+  <sequence>171</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>INFO</level>
+  <thread>14</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.php.project.PhpProject</param>
+</record>
+<record>
+  <date>2014-07-03T17:01:13</date>
+  <millis>1404396073354</millis>
+  <sequence>172</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>INFO</level>
+  <thread>14</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.php.project.PhpProject</param>
+</record>
+<record>
+  <date>2014-07-03T17:01:13</date>
+  <millis>1404396073354</millis>
+  <sequence>173</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>INFO</level>
+  <thread>14</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.php.project.PhpProject</param>
+</record>
+<record>
+  <date>2014-07-03T17:01:13</date>
+  <millis>1404396073354</millis>
+  <sequence>174</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>INFO</level>
+  <thread>14</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.php.project.PhpProject</param>
+</record>
+<record>
+  <date>2014-07-03T17:01:13</date>
+  <millis>1404396073354</millis>
+  <sequence>175</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>INFO</level>
+  <thread>14</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.php.project.PhpProject</param>
+</record>
+<record>
+  <date>2014-07-03T17:01:13</date>
+  <millis>1404396073354</millis>
+  <sequence>176</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>INFO</level>
+  <thread>14</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.php.project.PhpProject</param>
+</record>
+<record>
+  <date>2014-07-03T17:01:13</date>
+  <millis>1404396073354</millis>
+  <sequence>177</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>INFO</level>
+  <thread>14</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.php.project.PhpProject</param>
+</record>
+<record>
+  <date>2014-07-03T17:01:13</date>
+  <millis>1404396073354</millis>
+  <sequence>178</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>INFO</level>
+  <thread>14</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.php.project.PhpProject</param>
+</record>
+<record>
+  <date>2014-07-03T17:01:13</date>
+  <millis>1404396073354</millis>
+  <sequence>179</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>INFO</level>
+  <thread>14</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.php.project.PhpProject</param>
+</record>
+<record>
+  <date>2014-07-03T17:01:13</date>
+  <millis>1404396073354</millis>
+  <sequence>180</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>INFO</level>
+  <thread>14</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.php.project.PhpProject</param>
+</record>
+<record>
+  <date>2014-07-03T17:01:13</date>
+  <millis>1404396073354</millis>
+  <sequence>181</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>INFO</level>
+  <thread>14</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.php.project.PhpProject</param>
+</record>
+<record>
+  <date>2014-07-03T17:01:19</date>
+  <millis>1404396079284</millis>
+  <sequence>680</sequence>
+  <logger>org.netbeans.ui.metrics.php</logger>
+  <level>INFO</level>
+  <thread>54</thread>
+  <message>USG_PROJECT_CREATE_PHP</message>
+  <key>USG_PROJECT_CREATE_PHP</key>
+  <catalog>org.netbeans.modules.php.project.util.Bundle</catalog>
+  <param>EXTRA_SRC_DIR_NO</param>
+  <param></param>
+  <param>1</param>
+  <param>COPY_FILES_NO</param>
+  <param></param>
+</record>
+<record>
+  <date>2014-07-03T17:01:23</date>
+  <millis>1404396083227</millis>
+  <sequence>699</sequence>
+  <logger>org.netbeans.ui.metrics.php</logger>
+  <level>INFO</level>
+  <thread>48</thread>
+  <message>USG_PROJECT_OPEN_PHP</message>
+  <key>USG_PROJECT_OPEN_PHP</key>
+  <catalog>org.netbeans.modules.php.project.Bundle</catalog>
+  <param></param>
+</record>
+<record>
+  <date>2014-07-03T17:01:23</date>
+  <millis>1404396083416</millis>
+  <sequence>701</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>INFO</level>
+  <thread>48</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.php.project.PhpProject</param>
+</record>
+<record>
+  <date>2014-07-03T17:02:09</date>
+  <millis>1404396129352</millis>
+  <sequence>756</sequence>
+  <logger>org.netbeans.ui.metrics.editor</logger>
+  <level>INFO</level>
+  <thread>48</thread>
+  <message>USG_EDITOR_MIME_TYPE</message>
+  <param>text/x-php5</param>
+  <param>1</param>
+</record>
